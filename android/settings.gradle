@@ -1,0 +1,3 @@
+rootProject.name = 'HackerNewsTest'
+
+include ':app'
